@@ -1,0 +1,52 @@
+[
+    {
+      "id": 3,
+      "name": "vegetable",
+      "emoji": "🥦"
+    },
+    {
+      "id": 4,
+      "name": "fruit",
+      "emoji": "🍎"
+    },
+    {
+      "id": 5,
+      "name": "Fresh Vegetables",
+      "emoji": "🥕"
+    },
+    {
+      "id": 6,
+      "name": "Fresh Fruits",
+      "emoji": "🍇"
+    },
+    {
+      "id": 7,
+      "name": "Leafy Greens",
+      "emoji": "🥬"
+    },
+    {
+      "id": 8,
+      "name": "Root Vegetables",
+      "emoji": "🍠"
+    },
+    {
+      "id": 9,
+      "name": "Citrus Fruits",
+      "emoji": "🍊"
+    },
+    {
+      "id": 10,
+      "name": "Berries",
+      "emoji": "🍓"
+    },
+    {
+      "id": 11,
+      "name": "Stone Fruits",
+      "emoji": "🍑"
+    },
+    {
+      "id": 12,
+      "name": "Tropical Fruits",
+      "emoji": "🍍"
+    }
+]
